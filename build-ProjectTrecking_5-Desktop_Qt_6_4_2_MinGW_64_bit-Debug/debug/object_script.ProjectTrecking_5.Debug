@@ -1,0 +1,10 @@
+debug/area.o
+debug/inputwin.o
+debug/main.o
+debug/mainwindow.o
+debug/office.o
+debug/qrc_resources.o
+debug/moc_area.o
+debug/moc_inputwin.o
+debug/moc_mainwindow.o
+debug/moc_office.o

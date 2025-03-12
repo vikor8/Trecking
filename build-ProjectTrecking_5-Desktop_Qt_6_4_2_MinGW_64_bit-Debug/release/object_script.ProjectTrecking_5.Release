@@ -1,0 +1,10 @@
+release/area.o
+release/inputwin.o
+release/main.o
+release/mainwindow.o
+release/office.o
+release/qrc_resources.o
+release/moc_area.o
+release/moc_inputwin.o
+release/moc_mainwindow.o
+release/moc_office.o
